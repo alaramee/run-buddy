@@ -142,10 +142,6 @@ section {
 }
 /* Hero Style End */
 
-.intro {
-  text-align: center;
-}
-
 .intro p {
   line-height: 1.7;
   color: #39a6b2;
@@ -155,7 +151,6 @@ section {
 }
 
 .steps {
-  text-align: center;
   background: #fce138;
 }
 
@@ -186,9 +181,6 @@ section {
 .section-title {
   font-size: 55px;
   color: #024e76;
-  margin-bottom: 35px;
-  padding: 0 100px 20px 100px;
-  display: inline-block;
   border-bottom: 3px solid;
 }
 
